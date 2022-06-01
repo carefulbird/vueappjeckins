@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="欢迎来到德莱联盟"/>
+  <img alt="Vue logo" src="./assets/logo.png" />
+  <HelloWorld msg="欢迎来到德莱联盟1111" />
 </template>
 
 <script>
@@ -9,8 +9,8 @@ import HelloWorld from './components/HelloWorld.vue'
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    HelloWorld,
+  },
 }
 </script>
 
