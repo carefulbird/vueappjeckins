@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="欢迎来到德莱联盟1111" />
+  <HelloWorld msg="欢迎来到德莱联盟呀" />
 </template>
 
 <script>
